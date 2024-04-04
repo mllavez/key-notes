@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "c96200497c11f4cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "a84b642d4919a8d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35d781770080d692",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Edu/2024SP MUS-10-LS03/Overview.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "07d457fcb33707cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Edu/2024SP MUS-10-LS03/Chapter 1 Rhythm, Meter and Tempo.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "caba7d3c42c40c70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bien Miches/ChatGPT prompts.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91f32b26c4d98e91",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc386f69fdc58949",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdf759307a9b102a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c1812a7395f96ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2eca99391c31c0c5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "17ac4892cbe3041e",
+    "type": "split",
+    "children": [
+      {
+        "id": "225a3e4b7a433afe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b884a50e5d90b0ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bien Miches/ChatGPT prompts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ca4ecbef9ea7fadc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bien Miches/ChatGPT prompts.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c65288a8b056d09",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ce0aa587aa180907",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bien Miches/ChatGPT prompts.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "caba7d3c42c40c70",
+  "lastOpenFiles": [
+    "Edu/2024SP MUS-10-LS03/Chapter 1 Rhythm, Meter and Tempo.md",
+    "Bien Miches/ChatGPT prompts.md",
+    "Bien Miches",
+    "Edu/2024SP MUS-10-LS03/Overview.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "llavez/Blog.md",
+    "llavez",
+    "Google Intro to Gen AI/Google Intro to Gen AI.md",
+    "Edu/2024SP MUS-10-LS03",
+    "Edu/SOC-3-LS0/Module 2B.md",
+    "Edu/SOC-3-LS0",
+    "Edu",
+    "EDU.md",
+    "Google Intro to Gen AI",
+    "Google Intro to Gen AI/Pasted image 20240229083403.png",
+    "Google Intro to Gen AI/Pasted image 20240229083353.png",
+    "Google Intro to Gen AI/Pasted image 20240229083335.png",
+    "Google Intro to Gen AI/Pasted image 20240229083258.png",
+    "Google Intro to Gen AI/Pasted image 20240229083255.png",
+    "Google Intro to Gen AI/Pasted image 20240229082939.png",
+    "Google Intro to Gen AI/Pasted image 20240229082642.png",
+    "Google Intro to Gen AI/Pasted image 20240229082630.png",
+    "Google Intro to Gen AI/Pasted image 20240229082601.png",
+    "Google Intro to Gen AI/Pasted image 20240229082358.png"
+  ]
+}
