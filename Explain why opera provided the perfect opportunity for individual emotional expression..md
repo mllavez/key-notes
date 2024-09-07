@@ -1,0 +1,5 @@
+Hello Chiara, great overview of early Christian Church's grip on music during Middle Ages. It's wild who everything from architecture to music was shaped by the church's direction. Also your explanation of the shift in political and artistic influence during  the Middle Ages was also clear. How power gradually shifted from the church to kings and nobles leading to music becoming more integrated into peoples daily life.
+
+Finally, your explanation of the differences between Baroque and Renaissance music, as well as the importance of opera in individual emotional expression, was on point. Opera indeed provided a unique platform for singers to convey their emotions, resonating deeply with audiences then and now.
+
+Overall, your post provides a comprehensive overview of the evolution of music from the Middle Ages through the Renaissance and into the Baroque era. Great job!

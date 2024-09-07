@@ -1,0 +1,51 @@
+#csslp
+
+## 1. Domain 1: Secure Software Concepts
+
+### Secure Software Concepts
+
+Core Concepts
+- Confidentiality, integrity, and availability
+- Authentication and authorization
+- Accountability and nonrepudiation
+
+Security Design Principles
+- Access controls
+- Principle of least privilege
+- Separation of duties
+- Resiliency
+- Economy of mechanism
+
+Layered Controls
+- Defense in depth
+- Diversity of defense
+- Component reuse
+- Least common mechanism
+
+Additional Concepts
+- open design
+- phychological acceptability
+
+# 2. The CIA Triad
+
+## Confidentiality
+
+keeping secrets secret
+
+1. actively being accessed by users
+2. structured data stores; unstructured data stores
+3. wired networks, wireless networks, mobile networks
+
+1. Structured
+full disk encryption (FDE)
+file encryption
+data element encryption
+
+2. unstructured
+transparent database encyption (TDE)
+column-level encryption
+Field-level encryption
+
+## Integrity
+
+
